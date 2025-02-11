@@ -1,0 +1,10 @@
+{
+  "name": "Kin",
+  "symbol": "KIN",
+  "description": "$KIN is the seed token of TrueTribe",
+  "image": "",
+  "extensions": {
+    "website": "https://truetribe.xyz",
+    "twitter": "https://twitter.com/truetribe_xyz"
+  }
+}
